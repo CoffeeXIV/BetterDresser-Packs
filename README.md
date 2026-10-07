@@ -16,8 +16,8 @@ for the steps. The repo URL to add in `/xlsettings` → Experimental → Custom 
 
 ## Packs
 
-| Pack | What's in it | Size |
-|---|---|---|
+| Pack | What's in it |
+|---|---|
 | `male` | Head, body, hands, legs and feet, worn by a male character |
 | `female` | Head, body, hands, legs and feet, worn by a female character |
 | `accessories` | Earrings, necklaces, bracelets and rings |
